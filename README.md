@@ -2,6 +2,7 @@
 
 ## Overview  
 This project explores public sentiment and social interactions on Twitter regarding the Green Pass and Super Green Pass policies introduced in Italy during 2021. By analyzing tweets from January 2022, the study identifies sentiment polarization, echo chambers, and interactions between opposing groups on this topic.  
+![image](https://github.com/user-attachments/assets/68ff5efa-6640-42bf-8ecd-bf99bda12d8b)
 
 ## Data Collection Process  
 The data collection and processing rely on Twitter APIs and custom scripts. Below are the steps to reproduce the dataset:  
